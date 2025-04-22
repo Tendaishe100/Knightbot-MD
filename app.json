@@ -15,7 +15,7 @@
             "description": "Session ID obtained after scanning QR code",
             "required": false
         },
-        "OWNER_NUMBER": {
+        "OWNER_NUMBER": {+263771826280}
             "description": "Your WhatsApp number (e.g., 911234567890)",
             "required": false
         },
